@@ -27,7 +27,7 @@ from llama_index.llms import OpenAI
 from llama_index.prompts import PromptTemplate
 from llama_index import VectorStoreIndex, SimpleDirectoryReader
 
-key = "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"
+key = "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"
 os.environ["OPENAI_API_KEY"] = key
 openai.api_key = os.environ["OPENAI_API_KEY"]
 
