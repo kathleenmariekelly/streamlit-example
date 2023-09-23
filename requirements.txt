@@ -4,4 +4,3 @@ streamlit
 llama_index
 pygame
 openai
-re
